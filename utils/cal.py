@@ -8,3 +8,5 @@ def sub(a,b):
 
 def power(a,b):
     return a**b
+def multy(a,b):
+    return a*b
