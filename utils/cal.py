@@ -1,12 +1,13 @@
-def add_nums(a,b):
-    return a+b
+def add_nums(a, b):
+    return a + b
 
-def divide(a,b):
-    return a/b
-def sub(a,b):
-    return a-b
+def divide(a, b):
+    return a / b
+def sub(a, b):
+    return a - b
 
-def power(a,b):
-    return a**b
-def multy(a,b):
-    return a*b
+def power(a, b):
+    return a ** b
+
+def multy(a, b):
+    return a * b
